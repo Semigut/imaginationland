@@ -402,19 +402,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity Projects\imaginationland\imaginationland
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a390000
-    m_LastClickedID: 14666
+    m_SelectedIDs: 54390000
+    m_LastClickedID: 14676
     m_ExpandedIDs: 000000004a39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -471,7 +471,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c62300005e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,8 +566,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 16390000
+      m_LastClickedID: 14614
       m_ExpandedIDs: 5afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -628,9 +628,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.2737534, y: -0.8479181, z: -3.172602}
+    m_Target: {x: -0.8387, y: -0.7610201, z: -4.9280205}
     speed: 2
-    m_Value: {x: -1.2737534, y: -0.8479181, z: -3.172602}
+    m_Value: {x: -0.8756384, y: -0.8109005, z: -4.9111214}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -680,9 +680,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.556006
+    m_Target: 3.9258106
     speed: 2
-    m_Value: 12.556006
+    m_Value: 3.7567565
   m_Ortho:
     m_Target: 1
     speed: 2
