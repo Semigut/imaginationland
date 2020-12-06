@@ -13,7 +13,10 @@ public class CameraMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print(Camera.main.pixelHeight);
+        print(Screen.height);
+        print(Camera.main.pixelWidth);
+        print(Screen.width);
 
     }
 
@@ -31,8 +34,14 @@ public class CameraMovement : MonoBehaviour
 
             transform.position = Vector3.Lerp(transform.position, targetPosition, smoothing);
 
+       
 
+        }
+        
+        if (target.position.x > transform.position.x + Camera.main.pixelWidth)
+        {
 
+            print("Jep");
         }
 
      
