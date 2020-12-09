@@ -321,8 +321,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1389116402}
   smoothing: 0.6
-  maxPosition: {x: 5, y: 5}
-  minPosition: {x: -5, y: -5}
+  maxPosition: {x: 15, y: 15}
+  minPosition: {x: -15, y: -15}
 --- !u!1 &738820771
 GameObject:
   m_ObjectHideFlags: 0
